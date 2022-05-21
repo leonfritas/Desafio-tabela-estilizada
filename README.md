@@ -1,3 +1,3 @@
 # Desafio-tabela-estilizada
 
-[<img= src="./Tabela.jpg" alt="foto da tabela">]
+[<img src="Tabela.jpg" alt="foto da tabela">]
